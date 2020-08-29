@@ -45,7 +45,8 @@ The answer is given in the task description. You should also check the man page 
 
 Press `q` to exit the man page
 
-> Question : How would you output hello without a newline
+> \#1 : How would you output hello without a newline
+
 Answer : `echo -n hello`
 
 ### TASK 7 - `ls`
